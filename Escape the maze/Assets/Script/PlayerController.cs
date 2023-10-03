@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class DraggableCharacter : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
     public enum DragMode {
         TransformPosition,
