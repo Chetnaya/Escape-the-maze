@@ -17,6 +17,10 @@ public class InputHandler : MonoBehaviour
         introCanvas.SetActive(false);
         player.SetActive(true);
     }
+    public void playAgainButton(int sceneIndex)
+    {
+        SceneManager.LoadScene(sceneIndex);
+    }
 
     public void Exit()
     {
