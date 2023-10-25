@@ -123,7 +123,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!21 &68043056
+--- !u!21 &38302416
 Material:
   serializedVersion: 8
   m_ObjectHideFlags: 0
@@ -683,7 +683,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Great Teamwork!
 
-    Thank you for helping ollie find her favorite pink
+    Thank you for helping ollie find her favourite pink
     skateboard.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0cc6f93cd17b2c841806718c36b49ed7, type: 2}
@@ -977,7 +977,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 827655418}
+  m_Material: {fileID: 837596132}
   m_Color: {r: 0.77254903, g: 0.79607844, b: 0.34901962, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -1725,7 +1725,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 820788411}
   m_CullTransparentMesh: 1
---- !u!21 &827655418
+--- !u!21 &837596132
 Material:
   serializedVersion: 8
   m_ObjectHideFlags: 0
@@ -2054,7 +2054,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 68043056}
+  m_Material: {fileID: 38302416}
   m_Color: {r: 0.77254903, g: 0.79607844, b: 0.34901962, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
